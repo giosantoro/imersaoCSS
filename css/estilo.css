@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+}
+
+
+body {
+	background: #F8F8FF;
+	font-family: Helvetica, sans-serif;
+	margin: 0px;
+}
+
+
+.menu {
+	background-color: #ADD8E6;
+	color: #fff;
+}
+
+.menu ul {
+	display: flex;
+	justify-content: space-around;
+}
+
+.menu li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: #363636;
+	background-color: white;
+}
+
+.site-subtitle,
+.site-title {
+	text-align: center;
+	color: #363636;
+	margin-top: 15px;
+}
+
